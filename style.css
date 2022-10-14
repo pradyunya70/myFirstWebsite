@@ -1,0 +1,20 @@
+#nm{
+color: yellow;
+}
+#nm:hover{
+color:white;
+}
+#box{
+text-align:center;
+margin:auto;
+}
+#frm{
+padding:60px;
+border:2px solid blue;
+border-radius:20px;
+}
+#d{
+border:2px solid black;
+border-radius:10px;
+}
+</style>
